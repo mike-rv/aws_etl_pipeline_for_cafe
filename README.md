@@ -152,8 +152,4 @@ Python3, Pandas and Git were also used.
 ## Conclusion
 
 
-
-lambda layers
-clouddformation ec2 - pre existing subnets and s3 bucket and vpcs etc.
-normalisation. --- 3nf
-testing data validation ---
+In conclusion, this project has been a great learning experience for our group. We have gained invaluable knowledge and skills in areas such as AWS cloud computing, transforming code with pandas, SQL, ETL pipeline, data normalisation, CICD pipeline and other important personal skills such as good communication, teamwork and having the right mindset. These skills and knowledge will serve as a great foundation for us to build upon as we continue our journey in the world of software engineering.
